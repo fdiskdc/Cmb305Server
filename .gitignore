@@ -1,0 +1,14 @@
+# 默认不发布项目根目录中的本地材料；仅允许以下文档及加密成品。
+/*
+!/.gitattributes
+!/.gitignore
+!/README.md
+!/docs/
+!/access/
+
+/docs/*
+!/docs/*.md
+
+/access/*
+!/access/login-materials.zip
+!/access/SHA256SUMS
