@@ -12,4 +12,5 @@
 /access/*
 !/access/login-materials.zip
 !/access/SHA256SUMS
-!./191
+/191/*
+!/191/191-login-materials.zip
